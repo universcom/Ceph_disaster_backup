@@ -1,0 +1,2 @@
+To run Code: 
+./DR.sh $OSP_USR $OSP_PASS $OSP_AUTH_URL $OSP_REGION 
